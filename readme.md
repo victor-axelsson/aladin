@@ -44,8 +44,8 @@ I will merge things that
 
 - I don't necessarily agree with but that have solid arguments
 - Have an innovative argument
-- Brins diversity to the discussion
-- Is both diverse and usefull, e.ri serendipity, to th discussion
+- Brings diversity to the discussion
+- Is both diverse and usefull, e.i serendipity, to the discussion
 
 But primarilly...
 
