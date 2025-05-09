@@ -47,3 +47,12 @@ In this section, we propose strategies for interacting with the Genie.
 
 1. If people are incapable of violence, there may be no defense against abuse.  
 2. It goes against our evolved nature. Training in controlled violence (e.g. boxing
+
+# Frowned upon
+
+In this collaborative effort and I am the dictator. I will frown upon thes following things:
+
+- Copy paste from religion
+- Copy paste from philisophy
+- Cliches, memes, slapstick, populisitic agendas to win moral highground
+- More tings that have not yet become a problem
