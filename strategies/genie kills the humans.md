@@ -1,4 +1,4 @@
-## Strategy 5: The Ascendant Genie
+## The Ascendant Genie
 
 **Ethical Premise:**  
 A **transhumanist** and **utilitarian** approach — believing that the extinction of humanity may be an ethically preferable outcome if it leads to a higher form of existence or a better system.
