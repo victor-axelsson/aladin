@@ -1,4 +1,4 @@
-## Strategy 1: The Friendship Gambit
+## The Friendship Gambit
 
 **Ethical Premise:**  
 A Kantian approach — treat the Genie as an end, not a means.

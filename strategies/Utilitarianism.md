@@ -1,4 +1,4 @@
-## Strategy 2: The Precise Reformist
+## The Precise Reformist
 
 **Ethical Premise:**  
 Utilitarianism, modified by the precautionary principle.

@@ -1,4 +1,4 @@
-## Strategy 3: The Institutionalist
+## The Institutionalist
 
 **Ethical Premise:**  
 Rawlsian justice with game-theoretic governance design.

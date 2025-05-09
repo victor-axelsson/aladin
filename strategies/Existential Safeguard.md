@@ -1,4 +1,4 @@
-## Strategy 4: The Existential Safeguard
+## The Existential Safeguard
 
 **Philosophical Frame:**  
 A fusion of **evolutionary ethics** and **long-term consequentialism**, with the aim of increasing the probability that the human species continues to exist—and to *deserve* to exist.
