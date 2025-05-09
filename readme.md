@@ -20,33 +20,14 @@ I recently watched *Disney's Aladdin* with my kids, and together we encountered 
 
 # Game Strategies
 
-In this section, we propose strategies for interacting with the Genie.
+You will find the strategies in the "strategies" folder
 
-## Strategy #1
+You can retaliate with counter arguments in the "counter aguments" folder.
+
+## General approach
 
 1. Make the Genie like you before using all 3 wishes. Free him—and potentially gain a lifelong friend who grants informal wishes.  
-2. Alternatively, wish that the Genie will like you after you free him.
-
-## Strategy X
-
-*Open for suggestions.*
-
----
-
-# Wish Suggestions
-
-1. Wish that all people are incapable of committing violence (both physical and non-physical).  
-2. Wish that all people value forgiveness over retaliation.  
-3. Free the Genie once he likes you enough to willingly help you throughout your life.
-
----
-
-## Arguments Against
-
-### Counter Argument 1 – Against Wish #1 (No Violence)
-
-1. If people are incapable of violence, there may be no defense against abuse.  
-2. It goes against our evolved nature. Training in controlled violence (e.g. boxing
+2. Alternatively, do something and hope that the Genie will like you after you free him.
 
 # Frowned upon
 
@@ -56,3 +37,17 @@ In this collaborative effort and I am the dictator. I will frown upon thes follo
 - Copy paste from philisophy
 - Cliches, memes, slapstick, populisitic agendas to win moral highground
 - More tings that have not yet become a problem
+
+# Merged changes
+
+I will merge things that
+
+- I don't necessarily agree with but that have solid arguments
+- Have an innovative argument
+- Brins diversity to the discussion
+- Is both diverse and usefull, e.ri serendipity, to th discussion
+
+But primarilly...
+
+- Shows on logical flaws in discussion and proposed discussions and strategies
+
